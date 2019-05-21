@@ -294,6 +294,7 @@
 - [James Brady](https://github.com/jlbrady)
 - [Josh R](https://github.com/jr2684)
 - [Damian Behymer](https://github.com/ProjectTermina)
+- [Shakti Ratan] (https://github.com/sat5297)
 - [Jowensky Neard](https://github.com/Jowensky)
 - [Pap Gergő Bence](https://github.com/szarhaz)
 - [Hayder Hassan](https://github.com/hayderhassan)
